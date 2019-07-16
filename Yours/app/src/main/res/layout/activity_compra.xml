@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.compra.CompraActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/layoutA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="72dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="72dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/open_sans"
+                android:text="Ficou maravilhosa!"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/imgCamiseta"
+                android:layout_width="match_parent"
+                android:layout_height="311dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:contentDescription="Camiseta para personalizar" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="0dp"
+                android:fontFamily="@font/open_sans"
+                android:text="A sua estampa foi salva e, em breve, poderá voltar aqui para fazer a sua encomenda!"
+                android:textAlignment="center"
+                android:textColor="@color/black75"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:visibility="invisible">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="210dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtQuantidade"
+                        android:layout_width="210dp"
+                        android:layout_height="47dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginEnd="24dp"
+                        android:ems="10"
+                        android:hint="Quantidade"
+                        android:inputType="number"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="325dp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <Spinner
+                    android:id="@+id/spinnerTamanho"
+                    android:layout_width="150dp"
+                    android:layout_height="47dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="24dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="72dp"
+                android:layout_marginEnd="72dp"
+                android:layout_marginBottom="24dp"
+                android:fontFamily="@font/open_sans"
+                android:text="Dados do Endereço:"
+                android:textAlignment="center"
+                android:textColor="@color/black75"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinnerEndereco"
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="24dp"
+                android:foregroundTint="#E6ABBC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtRua"
+                        style="@style/Widget.AppCompat.EditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginEnd="10dp"
+                        android:ems="10"
+                        android:hint="Nome da Rua"
+                        android:inputType="textPostalAddress"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="259dp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtNumero"
+                        style="@style/Widget.AppCompat.EditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+
+                        android:layout_marginEnd="24dp"
+                        android:ems="10"
+                        android:hint="Número"
+                        android:inputType="number"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="259dp" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="210dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtCidade"
+                        android:layout_width="210dp"
+                        android:layout_height="47dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginEnd="24dp"
+                        android:ems="10"
+                        android:hint="Cidade"
+                        android:inputType="textPersonName"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="325dp" />
+
+                </android.support.design.widget.TextInputLayout>
+
+                <Spinner
+                    android:id="@+id/spinnerEstado"
+                    android:layout_width="150dp"
+                    android:layout_height="47dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="24dp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="230dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="11dp">
+
+                    <EditText
+                        android:id="@+id/txtCEP"
+                        android:layout_width="230dp"
+                        android:layout_height="51dp"
+                        android:layout_marginStart="24dp"
+                        android:ems="10"
+                        android:hint="CEP"
+                        android:inputType="number"
+                        tools:layout_editor_absoluteX="47dp"
+                        tools:layout_editor_absoluteY="396dp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="24dp">
+
+                    <EditText
+                        android:id="@+id/txtBairro"
+                        android:layout_width="214dp"
+                        android:layout_height="51dp"
+                        android:ems="10"
+                        android:hint="Bairro"
+                        android:inputType="textPersonName"
+                        tools:layout_editor_absoluteX="47dp"
+                        tools:layout_editor_absoluteY="396dp" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/checkSalvarEnd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="24dp"
+                android:fontFamily="@font/open_sans"
+                android:text="Salvar Endereço para Próximas Compras" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="72dp"
+                android:layout_marginEnd="72dp"
+                android:layout_marginBottom="24dp"
+                android:fontFamily="@font/open_sans"
+                android:text="Dados de Pagamento:"
+                android:textAlignment="center"
+                android:textColor="@color/black75"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinnerPagamento"
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="24dp"
+                android:foregroundTint="#E6ABBC" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtTitular"
+                        style="@style/Widget.AppCompat.EditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginEnd="10dp"
+                        android:ems="10"
+                        android:hint="Nome do Titular"
+                        android:inputType="textPostalAddress"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="259dp" />
+                </android.support.design.widget.TextInputLayout>
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtValidade"
+                        style="@style/Widget.AppCompat.EditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+
+                        android:layout_marginEnd="24dp"
+                        android:ems="10"
+                        android:hint="Validade"
+                        android:inputType="number|date"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="259dp" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="210dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <EditText
+                        android:id="@+id/txtCVV"
+                        android:layout_width="210dp"
+                        android:layout_height="47dp"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginEnd="24dp"
+                        android:ems="10"
+                        android:hint="CVV"
+                        android:inputType="textPersonName"
+                        tools:layout_editor_absoluteX="43dp"
+                        tools:layout_editor_absoluteY="325dp" />
+
+                </android.support.design.widget.TextInputLayout>
+
+                <Spinner
+                    android:id="@+id/spinnerBandeira"
+                    android:layout_width="150dp"
+                    android:layout_height="47dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="24dp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="11dp">
+
+                    <EditText
+                        android:id="@+id/txtNumeroCartao"
+                        android:layout_width="match_parent"
+                        android:layout_height="51dp"
+                        android:layout_marginStart="24dp"
+                        android:ems="10"
+                        android:hint="Numero do Cartão"
+                        android:inputType="number"
+                        tools:layout_editor_absoluteX="47dp"
+                        tools:layout_editor_absoluteY="396dp" />
+                </android.support.design.widget.TextInputLayout>
+
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/checkSalvarCartao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="24dp"
+                android:fontFamily="@font/open_sans"
+                android:text="Salvar Cartão para Próximas Compras" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnContinuar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/bg_button"
+        android:text="VOLTAR PARA O MENU"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iconDownload"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            app:srcCompat="@drawable/ic_file_download_black_24dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/open_sans"
+            android:text="ou"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:id="@+id/iconDelete"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            app:srcCompat="@drawable/ic_delete_black_24dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

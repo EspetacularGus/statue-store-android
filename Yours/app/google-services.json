@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693496488397",
+    "firebase_url": "https://statue-store.firebaseio.com",
+    "project_id": "statue-store",
+    "storage_bucket": "statue-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693496488397:android:5ffd01d8adb002de",
+        "android_client_info": {
+          "package_name": "com.statuestore.yours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693496488397-33tfkr158j0g83ji9tdc817utfei1o2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBX8CLtIWIRKeed5OcKMuwVwQpPhvd0bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693496488397-33tfkr158j0g83ji9tdc817utfei1o2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

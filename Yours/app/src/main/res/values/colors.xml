@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blueLink">#4e88fc</color>
+    <color name="mainPink">#e91d63</color>
+    <color name="secondaryPink">#ffc0cb</color>
+    <color name="statusBarColor">#d87f8e</color>
+    <color name="white">#F9F9F9</color>
+    <color name="black">#000</color>
+    <color name="black75">#494949</color>
+    <color name="black60">#6d6d6d</color>
+    <color name="grey">#adadad</color>
+    <color name="disabled">#dddddd</color>
+</resources>

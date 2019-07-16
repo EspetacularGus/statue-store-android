@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95707fd15f7565399a0d1d7f6cd493ec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\94be303d749773b85693891367d2aa6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3bde4554c450bc1cb0206f2d1f28c0d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\aba388a1e2d453b43dbc403db33e7675\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ef7480aeac9ea404464207166e65a06f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\77c5276b564d363b33e916ce0b207688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\45a411de0b9de79190a7f9d936094fa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\08091bd597a8430170d4e97cbd718fe4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3c00ed24f07d1f7f47c2a7c22413760f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\74b6486c39214bb5380833494cfe8a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\6365b0f8095b3e6a8fca99392baee8e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\37a0a8585ee80d910eec4a23f8914ebd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\c8a5aa89915f2a0f0421f5d5f01d92d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\524ab645da1131706a9a1f88d6ccea74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\1446e4317ddcacef7173e146c25c02f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\9b8f7d25e41509addee9d42380e033b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\b3eaf457187b0fe14cc098521b104e74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d60e8b790f39445b26f326025bb1cc54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f4919c2664b5341612660335c8ace26b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\17e4e4de9906fdc901156e80261a4235\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\bc9cfab80935e299e6d5375cdfff2737\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\34d9ba33ee986b2959569484f4004506\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\a129909a37197b0ba80371799a8a760e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95f72dbb48d57e26c192e6c85aa94658\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5b5b589df084929bc2efea274d144b09\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\0d9947676cfb26d8500b0d90fc951bcc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5fc74c60db1c4f1135a7a9a9ea4c6120\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\52d67c53b593f8c2d379a11b6c6994fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ebac86a370023eb6605b0a6eb3a2ecc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c20151b4930063ed4fa7e0348dca81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\cbf5ad08aba38154108ad00c92e40af1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f2da26905393bfe8969db7255f7ea856\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:9:5-38:19
+MERGED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:13:5-18:19
+MERGED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95707fd15f7565399a0d1d7f6cd493ec\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95707fd15f7565399a0d1d7f6cd493ec\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\bc9cfab80935e299e6d5375cdfff2737\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\bc9cfab80935e299e6d5375cdfff2737\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f2da26905393bfe8969db7255f7ea856\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f2da26905393bfe8969db7255f7ea856\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:14:9-51
+	android:usesCleartextTraffic
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.statuestore.yours.ui.compra.ConfirmationCompraActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:17:9-83
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:17:19-71
+activity#com.statuestore.yours.ui.compra.CompraActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:18:9-62
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:18:19-59
+activity#com.statuestore.yours.ui.compra.CustomActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:19:9-21:45
+	android:label
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:21:13-42
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:20:13-53
+activity#com.statuestore.yours.ui.MainActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:22:9-24:48
+	android:label
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:23:13-44
+activity#com.statuestore.yours.ui.register.ConfirmationActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:25:19-67
+activity#com.statuestore.yours.ui.register.RegisterActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:26:9-66
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:26:19-63
+activity#com.statuestore.yours.ui.login.LoginActivity
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:27:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml:36:13-43
+uses-sdk
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+MERGED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95707fd15f7565399a0d1d7f6cd493ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95707fd15f7565399a0d1d7f6cd493ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\94be303d749773b85693891367d2aa6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\94be303d749773b85693891367d2aa6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3bde4554c450bc1cb0206f2d1f28c0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3bde4554c450bc1cb0206f2d1f28c0d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\aba388a1e2d453b43dbc403db33e7675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\aba388a1e2d453b43dbc403db33e7675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ef7480aeac9ea404464207166e65a06f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ef7480aeac9ea404464207166e65a06f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\77c5276b564d363b33e916ce0b207688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\77c5276b564d363b33e916ce0b207688\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\45a411de0b9de79190a7f9d936094fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\45a411de0b9de79190a7f9d936094fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\08091bd597a8430170d4e97cbd718fe4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\08091bd597a8430170d4e97cbd718fe4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3c00ed24f07d1f7f47c2a7c22413760f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\3c00ed24f07d1f7f47c2a7c22413760f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\74b6486c39214bb5380833494cfe8a3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\74b6486c39214bb5380833494cfe8a3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\6365b0f8095b3e6a8fca99392baee8e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\6365b0f8095b3e6a8fca99392baee8e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\37a0a8585ee80d910eec4a23f8914ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\37a0a8585ee80d910eec4a23f8914ebd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\c8a5aa89915f2a0f0421f5d5f01d92d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\c8a5aa89915f2a0f0421f5d5f01d92d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\524ab645da1131706a9a1f88d6ccea74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\524ab645da1131706a9a1f88d6ccea74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\1446e4317ddcacef7173e146c25c02f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\1446e4317ddcacef7173e146c25c02f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\9b8f7d25e41509addee9d42380e033b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\9b8f7d25e41509addee9d42380e033b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\b3eaf457187b0fe14cc098521b104e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\b3eaf457187b0fe14cc098521b104e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d60e8b790f39445b26f326025bb1cc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d60e8b790f39445b26f326025bb1cc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f4919c2664b5341612660335c8ace26b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f4919c2664b5341612660335c8ace26b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\17e4e4de9906fdc901156e80261a4235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\17e4e4de9906fdc901156e80261a4235\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\d1b1f579c93b238213041c6d47091cfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\bc9cfab80935e299e6d5375cdfff2737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\bc9cfab80935e299e6d5375cdfff2737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\34d9ba33ee986b2959569484f4004506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\34d9ba33ee986b2959569484f4004506\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\a129909a37197b0ba80371799a8a760e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\a129909a37197b0ba80371799a8a760e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95f72dbb48d57e26c192e6c85aa94658\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\95f72dbb48d57e26c192e6c85aa94658\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5b5b589df084929bc2efea274d144b09\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5b5b589df084929bc2efea274d144b09\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\0d9947676cfb26d8500b0d90fc951bcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\0d9947676cfb26d8500b0d90fc951bcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5fc74c60db1c4f1135a7a9a9ea4c6120\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\5fc74c60db1c4f1135a7a9a9ea4c6120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\52d67c53b593f8c2d379a11b6c6994fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\52d67c53b593f8c2d379a11b6c6994fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ebac86a370023eb6605b0a6eb3a2ecc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\ebac86a370023eb6605b0a6eb3a2ecc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c20151b4930063ed4fa7e0348dca81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c20151b4930063ed4fa7e0348dca81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\cbf5ad08aba38154108ad00c92e40af1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\cbf5ad08aba38154108ad00c92e40af1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f2da26905393bfe8969db7255f7ea856\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\f2da26905393bfe8969db7255f7ea856\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\MOBILE -\Yours\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:11:22-77
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:14:9-17:20
+	android:theme
+		ADDED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.8] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\864fd8f782d264157ba05c85385154cf\AndroidManifest.xml:15:13-77
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\ninja\.gradle\caches\transforms-2\files-2.1\70c46e4e1125be77a91437cad0dd902a\AndroidManifest.xml:24:13-83

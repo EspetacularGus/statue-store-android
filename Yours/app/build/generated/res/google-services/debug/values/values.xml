@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">693496488397-33tfkr158j0g83ji9tdc817utfei1o2o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://statue-store.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">693496488397</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBX8CLtIWIRKeed5OcKMuwVwQpPhvd0bE</string>
+    <string name="google_app_id" translatable="false">1:693496488397:android:5ffd01d8adb002de</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBX8CLtIWIRKeed5OcKMuwVwQpPhvd0bE</string>
+    <string name="google_storage_bucket" translatable="false">statue-store.appspot.com</string>
+    <string name="project_id" translatable="false">statue-store</string>
+</resources>
