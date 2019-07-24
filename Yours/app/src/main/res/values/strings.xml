@@ -31,10 +31,10 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 
-    <string name="home_website">http://www.google.com</string>
-    <string name="account_website">http://nossosite.com/conta.aspx</string>
-    <string name="orders_website">http://nossosite.com/pedidos.aspx</string>
-    <string name="password_website">http://nossosite.com/trocarsenha.aspx</string>
+    <string name="home_website">http://localhost:61017</string>
+    <string name="account_website">http://localhost:61017/Entrar</string>
+    <string name="orders_website">http://localhost:61017/Entrar</string>
+    <string name="password_website">http://localhost:61017/EsqueciMinhaSenha</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_custom">CustomActivity</string>
