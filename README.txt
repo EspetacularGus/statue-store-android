@@ -1,2 +1,2 @@
-A API utilizada pelo app est· rodando junto com a AplicaÁ„o Web 
-e se encontra na pasta da mesma (APLICA«√O_WEB)
+A API utilizada pelo app est√° rodando junto com a Aplica√ß√£o Web em servidor local
+no reposit√≥rio statue-store-web
