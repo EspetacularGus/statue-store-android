@@ -4,7 +4,7 @@
 
 * A API utilizada pelo app está rodando junto com a Aplicação Web em servidor local
 no repositório em [statue-store-web](https://github.com/EspetacularGus/statue-store-web).
-* É possível que seja necessário trocar a string de conexão com a API para conseguir rodar o app localmente.
+* É possível que seja necessário trocar as strings de conexão com a API para conseguir rodar o app localmente.
 * A biblioteca utilizada para a construção da interface do app pode ser baixada gratuitamente [aqui](http://www.jfoenix.com/).
 
 ## Manual do Usuário
